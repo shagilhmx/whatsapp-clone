@@ -5,8 +5,10 @@ import "./index.css";
 const index = () => {
   return (
     <Fragment>
+      Hi
       <div className="mobileView">
         <SignIn />
+        Hi
       </div>
       <div className="view"></div>
     </Fragment>
